@@ -8,7 +8,7 @@ Setup:
 
 1. First install all the pre-requisite libraries mentioned inside the requirements.txt file.
 
-2. Fire up your terminal and move into the project folder.
+2. Fire up your terminal OR your Anaconda Prompt and move into the project folder.
 
 3. Type : " streamlit run app.py " and your browser window pops up with the application.
 
